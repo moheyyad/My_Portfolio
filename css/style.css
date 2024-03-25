@@ -6,6 +6,9 @@
     --lightTxt: rgba(255,255,255,.5);
     --stroke: 125;
 }
+html{
+    overflow-x: hidden;
+}
 @font-face {
     font-family: 'cairo';
     src: url(../static/Cairo-Bold.ttf)format('truetype'),
