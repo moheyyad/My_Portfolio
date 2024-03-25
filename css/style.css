@@ -490,9 +490,11 @@ form input:last-child:hover{
         margin: 40px;
 
     }
-        .info h1{
-        font-size: 25px ;
+    .info h1{
+        font-size: 22px ;
     }
+    .info p{
+        font-size: 14px;
     .avatar{
         display: none;
     }
